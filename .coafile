@@ -1,0 +1,4 @@
+[unarchivedlinks]
+files = **/*.rst, README.rst, **/*.html, **/*.md
+ignore = venv/**
+bears = MementoBear
